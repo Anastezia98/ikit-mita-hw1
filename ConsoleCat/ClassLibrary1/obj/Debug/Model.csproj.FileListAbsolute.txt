@@ -1,0 +1,5 @@
+C:\Users\Irina\Documents\Visual Studio 2017\Projects\ConsoleCat\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Irina\Documents\Visual Studio 2017\Projects\ConsoleCat\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Irina\Documents\Visual Studio 2017\Projects\ConsoleCat\ClassLibrary1\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Irina\Documents\Visual Studio 2017\Projects\ConsoleCat\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Irina\Documents\Visual Studio 2017\Projects\ConsoleCat\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

@@ -1,0 +1,8 @@
+C:\Users\Irina\Documents\Visual Studio 2017\Projects\ConsoleCat\ConsoleCat\bin\Debug\ConsoleCat.exe.config
+C:\Users\Irina\Documents\Visual Studio 2017\Projects\ConsoleCat\ConsoleCat\bin\Debug\ConsoleCat.exe
+C:\Users\Irina\Documents\Visual Studio 2017\Projects\ConsoleCat\ConsoleCat\bin\Debug\ConsoleCat.pdb
+C:\Users\Irina\Documents\Visual Studio 2017\Projects\ConsoleCat\ConsoleCat\bin\Debug\ClassLibrary1.dll
+C:\Users\Irina\Documents\Visual Studio 2017\Projects\ConsoleCat\ConsoleCat\bin\Debug\ClassLibrary1.pdb
+C:\Users\Irina\Documents\Visual Studio 2017\Projects\ConsoleCat\ConsoleCat\obj\Debug\ConsoleCat.csprojResolveAssemblyReference.cache
+C:\Users\Irina\Documents\Visual Studio 2017\Projects\ConsoleCat\ConsoleCat\obj\Debug\ConsoleCat.exe
+C:\Users\Irina\Documents\Visual Studio 2017\Projects\ConsoleCat\ConsoleCat\obj\Debug\ConsoleCat.pdb
